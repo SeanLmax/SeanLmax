@@ -1,4 +1,4 @@
-# Hi there, I'm SeanLmax 👋
+## Hi there, I'm SeanLmax 👋
 
 Welcome to my GitHub page! Here are some details about me:
 
