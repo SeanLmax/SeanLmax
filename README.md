@@ -1,5 +1,6 @@
 ## Hi there, I'm SeanLmax 👋
 **✅Your life is your own!**
+
 **🎯Craving a PhD degree**
 ```zsh
  ______  ______  ________  ___   __   __      ___ __ __  ________  __     __     
