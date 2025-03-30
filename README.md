@@ -1,7 +1,5 @@
 ## Hi there, I'm SeanLmax 👋
 **✅Your life is your own!**
-
-<**🎯Craving a PhD degree**>
 ```zsh
  ______  ______  ________  ___   __   __      ___ __ __  ________  __     __     
 /_____/\/_____/\/_______/\/__/\ /__/\/_/\    /__//_//_/\/_______/\/__/\ /__/\    
@@ -15,6 +13,7 @@
 
 Welcome to my GitHub page! Here are some details about me:
 
+- 🎯 I’m craving a PhD degree!
 - 🔭 I’m currently working on Hunting Kernel Bugs!
 - 🌱 I’m currently learning Kernel Fuzzing(e.g. [Syzkaller](https://github.com/google/syzkaller), [kAFL](https://github.com/IntelLabs/kAFL)).
 - 👯 I’m looking to collaborate on OS community(e.g. [Linux Community](https://www.kernel.org/), [OpenEuler SIG](https://www.openeuler.org/en/sig/sig-list/), [OpenAnolis SIG](https://openanolis.cn/sig)).
