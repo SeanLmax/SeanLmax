@@ -27,7 +27,7 @@ Welcome to my GitHub page! Here are some details about me:
 ![SeanLmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanLmax&show_icons=true&theme=radical)
 
 ## Project
-[![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=iots-p&repo=iot-cves)]([https://github.com/IoTS-P/IoT-CVEs](https://github.com/aixcc-public/challenge-001-exemplar))
+[![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar)](https://github.com/aixcc-public/challenge-001-exemplar)
 
 ### 🔍 Challenge-001-Exemplar: Linux Kernel Challenge in 
 
