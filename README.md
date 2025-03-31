@@ -27,6 +27,7 @@ Welcome to my GitHub page! Here are some details about me:
 ![SeanLmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanLmax&show_icons=true&theme=radical)
 
 ## Project
+I am currently participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of the [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary) team.
 [![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar)](https://github.com/aixcc-public/challenge-001-exemplar)
 
 ### 🔍 Challenge-001-Exemplar: Linux Kernel Challenge in 
