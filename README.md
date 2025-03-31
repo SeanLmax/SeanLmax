@@ -31,3 +31,5 @@ I am currently participating in the [DARPA AIxCC Final Competition 2025](https:/
 
 [![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar)](https://github.com/aixcc-public/challenge-001-exemplar)
 [![Challenge-001-Exemplar-Source](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar-source)](https://github.com/aixcc-public/challenge-001-exemplar-source)
+[![Challenge-004-Nginx-cp](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-004-nginx-cp)](https://github.com/aixcc-public/challenge-004-nginx-cp)
+
