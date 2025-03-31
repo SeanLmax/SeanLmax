@@ -27,7 +27,7 @@ Welcome to my GitHub page! Here are some details about me:
 ![SeanLmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanLmax&show_icons=true&theme=radical)
 
 ## Project
-I am currently participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary). If you are also interested in Vulnerabilities Discovery Driven by Large Language Model(LLM)", then these two challenges can be a very nice start for you, make your own LLM-driven system to detect bugs in the challenges!
+I am currently participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary). If you are also interested in "LLM-driven Bug Detection", then these two challenges can be a very nice start for you, make your own LLM-driven system to detect bugs in the challenges!
 
 [![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar)](https://github.com/aixcc-public/challenge-001-exemplar)
 [![Challenge-004-Nginx-cp](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-004-nginx-cp)](https://github.com/aixcc-public/challenge-004-nginx-cp)
