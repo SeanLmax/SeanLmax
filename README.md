@@ -19,7 +19,7 @@ Welcome to my GitHub page! Here are some details about me:
 - 👯 I’m looking to collaborate on OS community(e.g. [Linux Community](https://www.kernel.org/), [OpenEuler SIG](https://www.openeuler.org/en/sig/sig-list/), [OpenAnolis SIG](https://openanolis.cn/sig)).
 - 🤔 I’m looking for help with LLM-driven Context-Aware Kernel Fuzzing Frameworks(e.g. Fuzz kernel with [OSS-Fuzz-gen](https://github.com/google/oss-fuzz-gen)).
 - 💬 Ask me about anything you like.
-- 📫 How to reach me: [aliyun-mail](mailto:sean.lixiang@aliyun.com).
+- 📫 How to reach me: [aliyun-mail](mailto:sean dot lixiang at aliyun dot com).
 - 😄 Pronouns: (SeanLmax)/‘ʃɔn‘ɛl’mæks/
 - ⚡ Fun fact: I am struggling in research paper writing!(>_<)!
 
