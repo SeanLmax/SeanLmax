@@ -29,7 +29,7 @@ Welcome to my GitHub page! Here are some details about me:
 ## Project
 I am currently participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary). 
 
-If you are also interested in "LLM-driven Bug Detection", these [two challenges](https://github.com/aixcc-public) can be a very nice start for you! Make your own LLM-driven system to detect bugs in the challenges together!
+If you are also interested in "LLM-driven Bug Detection", these [two challenges](https://github.com/aixcc-public) can be a very nice start for you! Make your own LLM-driven system to detect bugs in the challenges together! This is the [introduction video](https://aicyberchallenge.com/asc-challenge-project-development/) for these challenges. Take it away if you interested.
 
 [![Challenge-001-Exemplar](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-001-exemplar)](https://github.com/aixcc-public/challenge-001-exemplar)
 [![Challenge-004-Nginx-cp](https://github-readme-stats.vercel.app/api/pin/?username=aixcc-public&repo=challenge-004-nginx-cp)](https://github.com/aixcc-public/challenge-004-nginx-cp)
