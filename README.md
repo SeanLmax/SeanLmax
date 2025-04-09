@@ -23,7 +23,11 @@ Welcome to my GitHub page! Here are some details about me:
 - 😄 Pronouns: (SeanLmax)/‘ʃɔn‘ɛl’mæks/
 - ⚡ Fun fact: I am struggling in research paper writing!(>_<)!
 
-**Passionate about dissecting the blackbox of operating systems! 🔍Currently seeking research groups where I can apply my kernel surgery skills and vulnerability archaeology expertise to build secure and reliable systems. Always excited to discuss innovative ideas - ☕️coffee chats welcome!**
+**Passionate about dissecting the blackbox of operating systems!**
+
+**🔍Currently seeking research groups where I can apply my kernel surgery skills and vulnerability archaeology expertise to build secure and reliable systems.**
+
+**☕️coffee chats welcome! - Always excited to discuss innovative ideas!**
 
 ## GitHub Stats
 ![SeanLmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanLmax&show_icons=true&theme=radical)
