@@ -1,5 +1,6 @@
 ## Hi there, I'm SeanLmax 👋
 **✅Your life is your own!**
+**Passionate about dissecting the blackbox of operating systems!**
 ```zsh
  ______  ______  ________  ___   __   __      ___ __ __  ________  __     __     
 /_____/\/_____/\/_______/\/__/\ /__/\/_/\    /__//_//_/\/_______/\/__/\ /__/\    
@@ -23,9 +24,7 @@ Welcome to my GitHub page! Here are some details about me:
 - 😄 Pronouns: (SeanLmax)/‘ʃɔn‘ɛl’mæks/
 - ⚡ Fun fact: I am struggling in research paper writing!(>_<)!
 
-**Passionate about dissecting the blackbox of operating systems!**
-
-**🔍Currently seeking research groups where I can apply my kernel surgery skills and vulnerability archaeology expertise to build secure and reliable systems.**
+**🔍Currently seeking collaberators where I can apply my kernel surgery skills and vulnerability archaeology expertise to build secure and reliable systems.**
 
 **☕️coffee chats welcome! - Always excited to discuss innovative ideas!**
 
