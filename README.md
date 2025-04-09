@@ -1,6 +1,5 @@
 ## Hi there, I'm SeanLmax 👋
-**✅Your life is your own!**
-**Passionate about dissecting the blackbox of operating systems!**
+**✅Passionate about dissecting the blackbox of operating systems!**
 ```zsh
  ______  ______  ________  ___   __   __      ___ __ __  ________  __     __     
 /_____/\/_____/\/_______/\/__/\ /__/\/_/\    /__//_//_/\/_______/\/__/\ /__/\    
