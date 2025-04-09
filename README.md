@@ -23,7 +23,7 @@ Welcome to my GitHub page! Here are some details about me:
 - 😄 Pronouns: (SeanLmax)/‘ʃɔn‘ɛl’mæks/
 - ⚡ Fun fact: I am struggling in research paper writing!(>_<)!
 
-**🔍Currently seeking collaberators where I can apply my kernel surgery skills and vulnerability archaeology expertise to build secure and reliable systems.**
+**🔍Currently seeking collaborators to build secure and reliable systems applying my kernel surgery skills and vulnerability archaeology expertise .**
 
 **☕️coffee chats welcome! - Always excited to discuss innovative ideas!**
 
