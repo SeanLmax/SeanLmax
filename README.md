@@ -30,6 +30,7 @@ Welcome to my GitHub page! Here are some details about me:
 
 ## GitHub Stats
 ![SeanLmax's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeanLmax&show_icons=true&theme=radical)
+<img width=400 src='https://github-readme-stats.vercel.app/api?username=SeanLmax&theme=vue-dark&show_icons=true&hide_border=true&count_private=true' />
 
 ## Project
 I am currently participating in the [DARPA AIxCC Final Competition 2025](https://aicyberchallenge.com/) as a member of team [all_you_need_is_a_fuzzing_brain](https://dashboard.aicyberchallenge.com/ascsummary). 
